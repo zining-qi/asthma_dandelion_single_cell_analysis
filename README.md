@@ -86,8 +86,6 @@ This module performs replication of DPGs using **primary CD4+ Perturb-seq data**
 ---
 
 
----
-
 ## Notes
 
 * Input data paths are currently hard-coded and should be updated for portability.
@@ -103,6 +101,6 @@ If you use this code or find it helpful for your research, please cite:
 Salamone, I. M.†, Tian, P.†, Qi, Z., Zhao, J., Zhang, L., Tan, Q., Li, J., Michael, A. N., Thornburg, A. G., Sakabe, N. J., Weber, Z. T., Minogue, M., Chen, B., Ciszewski, C., He, X., Shah, H., Vercelli, D., Ober, C., Lin, H., Liu, Z.‡, Nóbrega, M. A.‡, & Liu, X.‡ (under review).
 **Leveraging trans-gene regulation prioritizes central genes and pathways in asthma.**
 
-† These authors contributed equally to this work.
+† These authors contributed equally to this work.   
 ‡ Corresponding authors.
 
